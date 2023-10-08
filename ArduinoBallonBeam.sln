@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduinoBallonBeam", "ArduinoBallonBeam.csproj", "{5B722061-7074-41F1-B76E-A4B1EE0341C3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{B01873AB-67C7-471F-ADD0-DE049EC2C88D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B722061-7074-41F1-B76E-A4B1EE0341C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B722061-7074-41F1-B76E-A4B1EE0341C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B722061-7074-41F1-B76E-A4B1EE0341C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B722061-7074-41F1-B76E-A4B1EE0341C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B01873AB-67C7-471F-ADD0-DE049EC2C88D}.Debug|Any CPU.ActiveCfg = Debug
+		{B01873AB-67C7-471F-ADD0-DE049EC2C88D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {810AE4F7-07EB-44B3-8754-F51367EDA09F}
+	EndGlobalSection
+EndGlobal
